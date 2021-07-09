@@ -6,6 +6,11 @@ Déploiement de base de Superset sur Heroku avec Docker (via `heroku.yml`).
 
 J'ai essayé quelques-unes des ["installateurs en un clic" existants](https://github.com/RealScout/superset-on-heroku#realscout-superset-on-heroku) mais tous ont échoué. Je suis personnellement plus à l'aise avec les conteneurs, j'ai donc choisi cette méthode. 🤷
 
+## Prérequis
+- Docker
+- Openssl
+- Heroku
+
 ## Cloner ce dépôt
 
 ```sh
