@@ -18,6 +18,9 @@ git clone https://github.com/DerrazSofiane/superset-heroku-docker.git
 cd superset-heroku-docker
 ```
 
+### Installation de MapBox (optionnel)
+Créer un fichier .env avec la variable MAPBOX_API_KEY à l'intérieur. Ajouter la clé api de mapbox à la variable.
+
 ## Créer une application Heroku
 
 Créez une application heroku avec [le fichier `heroku.yml`.](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml#creating-your-app-from-setup).
