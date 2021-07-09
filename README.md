@@ -9,7 +9,7 @@ J'ai essayé quelques-unes des ["installateurs en un clic" existants](https://gi
 ## Cloner ce dépôt
 
 ```sh
-git clone https://github.com/Abdess/superset-heroku-docker.git
+git clone https://github.com/DerrazSofiane/superset-heroku-docker.git
 cd superset-heroku-docker
 ```
 
